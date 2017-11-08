@@ -14,11 +14,11 @@
   "content_scripts": [
     {
       "matches": ["*://*.dpstream.net/external_link/*"],
-      "js": ["white-rabbit-dpstream.js"]
+      "js": ["wr-dpstream.js"]
     },
     {
       "matches": ["*://www.voirfilms.info/*-*.htm"],
-      "js": ["white-rabbit-voirfilms.js"]
+      "js": ["wr-voirfilms.js"]
     }
   ]
 

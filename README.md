@@ -17,6 +17,14 @@ But...<br> He wanted to change is fate, then in order to get extra-time, he deci
    - https://www.voirfilms.info/*-*.htm :<br>
    Delete div which contains ads, toro-tags.com ads.
 
+ - openload.co :
+   - https://openload.co/embed/* :<br>
+   Delete video overlay element.
+
+ - streamango.com :
+   - https://streamango.com/embed/* :<br>
+   Delete video overlay element.
+
 ## Installation
 
 (Available in addons.mozilla.com soon...)
