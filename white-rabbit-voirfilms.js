@@ -1,8 +1,9 @@
-/*
-White Rabbit :
-Delete div which contains ads, toro-tags.com ads, in *://www.voirfilms.info/*-*.htm
-*/
+/*White Rabbit :
+(in *:// www.voirfilms.info/ *-*.htm)
+Delete div which contains ads, toro-tags.com ads.*/
 
-css_query = '.responsive-ad, .adspopupserie, .linker div, .linker br';
-css_query += ', a[href*="toroadvertisingmedia.com"]';
+/*jslint browser:true */
+
+css_query = ".responsive-ad, .adspopupserie, .linker div, .linker br";
+css_query += ", a[href*='toroadvertisingmedia.com']";
 document.querySelectorAll(css_query).forEach(e => e.parentNode.removeChild(e));
