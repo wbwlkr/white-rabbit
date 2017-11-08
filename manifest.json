@@ -19,6 +19,14 @@
     {
       "matches": ["*://www.voirfilms.info/*-*.htm"],
       "js": ["wr-voirfilms.js"]
+    },
+    {
+      "matches": ["*://openload.co/embed/*"],
+      "js": ["wr-openload.js"]
+    },
+    {
+      "matches": ["*://streamango.com/embed/*"],
+      "js": ["wr-streamango.js"]
     }
   ]
 
