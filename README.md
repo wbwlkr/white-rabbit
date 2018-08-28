@@ -3,7 +3,7 @@
 ## Description
 
 Add-on to get rid of arbitrary annoying elements in streaming websites : countdown, ads, pop-ups...
-Works on Chrome and Firefox.
+Works on Chrome and Firefox (manual).
 
 White Rabbit is the name of the rabbit in Alice in Wonderland and he's always late.<br>
 But...<br> He wanted to change is fate, then in order to get extra-time, he decided to get rid of the unnecessary.
